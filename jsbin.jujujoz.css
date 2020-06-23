@@ -1,0 +1,70 @@
+ 
+body {
+   
+   background-color:red;
+}
+
+p {
+  
+  background-color: lightgrey;
+  width: 200px;
+  border:5px solid green;
+  padding:0.5px;
+   background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+ul {
+  font-size: 20px;
+  padding:14px;
+  margin: 10px;
+  border:20px;
+
+  background-color:forestgreen;
+  
+}
+
+ol {
+  
+  font-size: 20px;
+   padding:20px;
+   background-color:brown;
+}
+
+h1 {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50;
+ 
+}
+h2 {
+ background-color:brown;
+  text-decoration: underline;
+ }
+
+h3{
+ background-color:brown;
+  text-decoration: underline;
+ }
+
+img {
+border-radius: 20%;
+  opacity:0.80;
+  max-width: 100%;
+  height: auto;
+}
+table, th, td {
+  border: 1px solid black;
+}
+
+
+
+
+
+
+
+
